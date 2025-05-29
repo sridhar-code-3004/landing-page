@@ -9,8 +9,6 @@ This template lets you build a landing page with [Nuxt UI Pro](https://ui.nuxt.c
 - [Live demo](https://landing-template.nuxt.dev/)
 - [Documentation](https://ui.nuxt.com/getting-started/installation/pro/nuxt)
 
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=nuxt-ui-pro/landing)
-
 ## Quick Start
 
 ```bash [Terminal]
